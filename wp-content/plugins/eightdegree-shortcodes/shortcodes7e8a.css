@@ -1026,7 +1026,7 @@ img.mfp-img {
 .fancy{
 	font-size:19px; 
 	font-family:serif;
-	color: #fff;
+	color: ##0c47e8 !important;
 }
 .color-parallax-container{
 	width: 100%;
@@ -1055,7 +1055,7 @@ img.mfp-img {
 	height: 100%;
 }
 .parallaxSection > div > h1, .parallaxSection > div > h2, .parallaxSection > div > h3, .parallaxSection > div > h4, .parallaxSection > div > h5, .parallaxSection > div > h6{ color: #fff !important;}
-.color-parallax-content h1, .color-parallax-content h2, .color-parallax-content h3, .color-parallax-content h4, .color-parallax-content h5, .color-parallax-content h6{ color: #fff !important;}
+.color-parallax-content h1, .color-parallax-content h2, .color-parallax-content h3, .color-parallax-content h4, .color-parallax-content h5, .color-parallax-content h6{ color:#0c47e8 !important;}
 .parallaxSection .scrollanimation h1, .parallaxSection .scrollanimation h2, .parallaxSection .scrollanimation h3, .parallaxSection .scrollanimation h4, .parallaxSection .scrollanimation h5,.parallaxSection .scrollanimation h6{color: #fff !important;}
 .no-js .parallaxSection .scrollanimation h1, .no-js .parallaxSection .scrollanimation h2, .no-js .parallaxSection .scrollanimation h3, .no-js .parallaxSection .scrollanimation h4, .no-js .parallaxSection .scrollanimation h5,.no-js .parallaxSection .scrollanimation h6{color: #fff !important;}
 .noSkrollr .parallaxSection .scrollanimation h1, .noSkrollr .parallaxSection .scrollanimation h2, .noSkrollr .parallaxSection .scrollanimation h3, .noSkrollr .parallaxSection .scrollanimation h4,.noSkrollr .parallaxSection .scrollanimation h5,.noSkrollr .parallaxSection .scrollanimation h6{color: #fff !important;}
